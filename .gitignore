@@ -1,0 +1,29 @@
+# Flutter/Dart/Pub stuff
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.package_config.json
+.package_graph.json
+.pub-cache/
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# Platform-specific
+android/.gradle/
+ios/Pods/
+ios/Runner.xcworkspace/
+linux/flutter/
+macos/Flutter/
+windows/flutter/
+
+# Generated files
+*.lock
+
